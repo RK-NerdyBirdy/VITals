@@ -1,0 +1,35 @@
+# Node / Next
+node_modules/
+.pnpm-store/
+.turbo/
+.next/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+coverage/
+dist/
+*.tsbuildinfo
+VITals_Codex_Prompt.md
